@@ -5,11 +5,52 @@
 ##### h5
 ###### h6
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+:+1: This is great!
 
-``` javascript
-var myVar = "Hello, world!";
+Remove the default _target blank in logo #93
+
+| Head 1 | Head 2 | Head 3 | Head 4 |
+|---|:---|---:|:---:|
+| aaa | aaa | aaa | aaa |
+| bb | bb | bb | bb |
+| c | c | c | c |
+
+---
+***
+___
+
+This is the first line.  
+This is the second line.  
+
+\* This is not italic.
+
+<p>This is a paragraph</p>
+
+@officialrajdeepsingh, check out the following change.
+
+The section blog theme is maintained by @frontendweb
+
+> "The only way" - Steve Jobs
+
+- [ ] Incomplete task
+- [x] Completed task
+
+Visit [GitHub](https://github.com)
+
+[google]: https://www.google.com
+This is a link to [Google][google].
+
+Visit https://www.github.com
+Contact support@github.com
+
+The `printf()` function is used to print output.
+
+```python
+def greet(name):
+  print(f"Hello, {name}!")
 ```
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 - [x] List syntax is required
 - [x] This item is complete
@@ -19,3 +60,11 @@ Bold: **text1** or __text2__
 Italic: *text1* or _text2_
 Bold and Italic: ***text1*** or ___text2___
 Strikethrough: ~~text~~
+
+* Item 1
+* Item 2
+* Item 3
+
+1. Item 1
+2. Item 2
+3. Item 3
