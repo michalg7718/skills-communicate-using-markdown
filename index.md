@@ -26,10 +26,6 @@ This is the second line.
 
 <p>This is a paragraph</p>
 
-@officialrajdeepsingh, check out the following change.
-
-The section blog theme is maintained by @frontendweb
-
 > "The only way" - Steve Jobs
 
 - [ ] Incomplete task
@@ -49,8 +45,6 @@ The `printf()` function is used to print output.
 def greet(name):
   print(f"Hello, {name}!")
 ```
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 - [x] List syntax is required
 - [x] This item is complete
