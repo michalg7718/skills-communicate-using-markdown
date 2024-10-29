@@ -14,3 +14,8 @@ var myVar = "Hello, world!";
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+Bold: **text1** or __text2__
+Italic: *text1* or _text2_
+Bold and Italic: ***text1*** or ___text2___
+Strikethrough: ~~text~~
